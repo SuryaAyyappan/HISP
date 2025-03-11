@@ -23,7 +23,7 @@ const Chatbot = () => {
       {/* Chatbot */}
       {open && (
         <iframe
-          src='https://www.blackbox.ai/agent/NexGenTrike-NaviSightso4vcFhb'
+          src='https://www.blackbox.ai/agent/E-HISPHealthInsuranceServicePortalOUWtaJy'
           width='100%'
           className='h-screen w-full absolute z-40 overflow-hidden'
         />
