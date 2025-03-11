@@ -45,13 +45,7 @@ const Services = () => {
             </ScrollFx>
             <ScrollFx duration={1.0}>
               <p className='text-white font-cormorant-garamond text-xl'>
-                At the Lions Blind Foundation, there are 17 visually impaired
-                individuals, each with their own families. Mobility remains a
-                significant challenge for them. When we introduced our product,
-                their positive response was overwhelming. In light of this, our
-                team at NaviSights has committed to supporting them on a weekly
-                and monthly basis, using whatever minimal funds we have
-                available.
+                At the Health Insurance Service Portal (HISP), we are dedicated to assisting individuals and families in accessing reliable and affordable healthcare coverage. Many people struggle with navigating the complexities of health insurance, making informed decisions, and finding the right plans for their needs. When we introduced our platform, the positive response was overwhelming. In light of this, our team at HISP is committed to continuously improving our services, providing guidance, and ensuring that everyone can secure the healthcare they deserve, regardless of their financial situation.
               </p>
             </ScrollFx>
             <div className='grid md:grid-cols-2 gap-4'>
